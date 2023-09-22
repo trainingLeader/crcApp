@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tZiavzJgT6Nomb+FIxjE99+zitsiV6vGz9vT6g/VrA83rN4U10wSpnQwkAE8kPTMx83IpDV0B1V2yxBYARncbQ==",
+  "dgSpecHash": "UWaMzUAGycymN/GYYC93aHFS5rErcDP16MfEwS49/IAj8/5JxF/H8c6gz3NstfFfF319VyF5vHBC7HUWPKs2kQ==",
   "success": true,
   "projectFilePath": "e:\\Proy_Santoto\\crcApp\\Apicrc\\Apicrc.csproj",
   "expectedPackageFiles": [
@@ -126,7 +126,11 @@
     "C:\\Users\\developer\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\system.threading.threadpool.4.3.0.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\developer\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\developer\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "26FQS4b9mwdD6/d1s5RQXbRfmi04WG7SgTf5o/ZCWzW+5K3aRT9GOqRJfDVziIU1UL1DXXJVA61S7x84y8cO4w==",
+  "dgSpecHash": "kAWWrhHeKXUkDQ5gNHLQPClVRBR6ezJxaz+v74qOWtRouxCDtcL504rZho0PWeyvPYL9AqYyqICnz2VfipC4LQ==",
   "success": true,
   "projectFilePath": "e:\\Proy_Santoto\\crcApp\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,10 @@
     "C:\\Users\\developer\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\system.threading.threadpool.4.3.0.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\developer\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\developer\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
   ],
   "logs": []
 }
